@@ -1,0 +1,39 @@
+{
+    "difficulty": "pilot",
+    "wave": 1,
+    "score": 875,
+    "scrap": 7,
+    "kills": 3,
+    "total_scrap_earned": 7,
+    "player": {
+        "health": 100,
+        "max_health": 100,
+        "shield": 60,
+        "max_shield": 60,
+        "shield_regen_rate": 15.0,
+        "speed": 5.5,
+        "magnet_range": 140.0,
+        "crit_chance": 0.1,
+        "crit_multiplier": 1.8,
+        "emp_charges": 1,
+        "max_emp_charges": 4,
+        "current_weapon": "pulse",
+        "unlocked_weapons": [
+            "pulse",
+            "twin"
+        ]
+    },
+    "upgrades": {
+        "hull": 0,
+        "shield": 0,
+        "speed": 0,
+        "magnet": 0,
+        "crit": 0,
+        "flak_unlock": 0,
+        "homing_unlock": 0,
+        "singularity_unlock": 0,
+        "emp_cell": 0
+    },
+    "timestamp": "2026-10-24 14:56",
+    "slot_id": "auto"
+}

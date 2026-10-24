@@ -1,0 +1,41 @@
+{
+    "difficulty": "cyber_hell",
+    "wave": 23,
+    "score": 1612910,
+    "scrap": 3233,
+    "kills": 1405,
+    "total_scrap_earned": 6229,
+    "player": {
+        "health": 225.0,
+        "max_health": 225,
+        "shield": 160,
+        "max_shield": 160,
+        "shield_regen_rate": 35.0,
+        "speed": 8.7,
+        "magnet_range": 380.0,
+        "crit_chance": 0.42000000000000004,
+        "crit_multiplier": 2.9999999999999996,
+        "emp_charges": 2,
+        "max_emp_charges": 5,
+        "current_weapon": "twin",
+        "unlocked_weapons": [
+            "pulse",
+            "twin",
+            "flak",
+            "homing"
+        ]
+    },
+    "upgrades": {
+        "hull": 5,
+        "shield": 5,
+        "speed": 4,
+        "magnet": 4,
+        "crit": 4,
+        "flak_unlock": 1,
+        "homing_unlock": 1,
+        "singularity_unlock": 0,
+        "emp_cell": 1
+    },
+    "timestamp": "2026-10-23 11:57",
+    "slot_id": "manual_1"
+}
